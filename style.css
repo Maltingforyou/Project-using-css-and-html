@@ -1,0 +1,138 @@
+
+body{
+ text-align: center;
+ margin:0;
+ font-size: 200%;
+ font-family: 'Merriweather', serif;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  color:#40A2D8;
+  border-style: dotted ;
+  margin: 100px auto 100px auto ;
+  border-bottom: none;
+  border-width: 20px;
+  width: 4%;
+}
+
+h1{
+  color: #40A2D8;
+  margin: 0  auto 0 auto;
+  font-size: 5.625rem;
+ font-family: 'sacramento',cursive;
+}
+
+
+h2{
+  color: #40A2D8;
+  font-weight: normal;
+  font-size: 2.5rem;
+  margin:0;
+  font-family:'montserrat', sans-serif;
+}
+
+
+h3{
+  color:  #40A2D8;
+  font-family:'montserrat', sans-serif;
+}
+
+span{
+  text-decoration: underline;
+}
+
+.top-container{
+  background-color:#CDFADB;
+  padding-top:100px;
+  position: relative;
+}
+
+.middle-container{
+margin: 100px auto 100px auto;
+}
+
+.bottom-container{
+  margin:80px auto 0 auto;
+  background-color:#15F5BA;
+  padding: 50px 0 1px;
+}
+
+.code-img{
+  float: right;
+  width: 21%
+}
+
+.chilli-img{
+  float:left;
+  margin-right: 100px;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 250px auto;
+  text-align: left;
+}
+
+.contact-msg{
+  width:30%;
+}
+
+.btn {
+  background: #61b4eb;
+  background-image: -webkit-linear-gradient(top, #61b4eb, #4d87ab);
+  background-image: -moz-linear-gradient(top, #61b4eb, #4d87ab);
+  background-image: -ms-linear-gradient(top, #61b4eb, #4d87ab);
+  background-image: -o-linear-gradient(top, #61b4eb, #4d87ab);
+  background-image: linear-gradient(to bottom, #61b4eb, #4d87ab);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family:'montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.bottomcloud{
+  position:absolute;
+  left:300px:
+  bottom:300px;
+}
+
+.topcloud{
+  position: absolute;
+  top:50px;
+  right:400px;
+}
+
+.intro{
+ width: 30%;
+ margin:20px auto 40px auto;
+  }
+
+  a{font-family:'montserrat', sans-serif;
+  margin: 10px 20px ;
+  text-decoration: none;
+}
+
+  a:hover{
+    color: white;
+    }
+.copyright{
+  color:white;
+}
